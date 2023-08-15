@@ -17,9 +17,9 @@ form.onsubmit = (event) => {
     return;
   }
   AlertError.close();
-
-  let result = calculateIMC(weight, height);
-  displayResultMessage();
+  
+  const result = calculateIMC(weight, height);
+  displayResultMessage(result);
 };
 
 function displayResultMessage(result) {
