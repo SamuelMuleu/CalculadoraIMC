@@ -27,6 +27,9 @@ Neste projeto, utilizei o DOM (Document Object Model) para interagir com os elem
 
 - Manipulação de conteúdo: Utilizei o DOM para alterar dinamicamente o conteúdo de elementos HTML, como exibir mensagens de erro e resultados de cálculos.
 
+## Utilização de Módulos JavaScript
+
+Neste projeto, adotei a abordagem de módulos JavaScript para organizar e modularizar o código, promovendo uma estrutura mais clara e reutilizável. A utilização de módulos torna mais fácil separar as funcionalidades e reduzir o acoplamento entre diferentes partes do código.
 
 
 Esse projeto foi desenvolvido durante o curso Explorer da Rocketseat com as seguintes tecnologias:
